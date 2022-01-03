@@ -842,6 +842,7 @@ video.responsive-video {
     font-size: 24px;
     letter-spacing: 1px;
     font-weight: 600;
+color: #fff;
 }
 
 .featured-title h2 span {
@@ -1032,7 +1033,7 @@ video.responsive-video {
 .contact-btn {
     display: inline-block;
     font-weight: 700;
-    color: #fff;
+    color: #fff !important;
     font-size: 22px;
     line-height: 40px;
     text-transform: uppercase;
